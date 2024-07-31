@@ -1,6 +1,6 @@
 # First commit python-challenge
 
-# PyBankPython script to analyze a financial dataset called budget_data.csv.The python script reads  the csv file and analyzes the records, calculates, and prints the values on the terminal and also exports a text file with the output with required formatting. 
+# PyBank Python script to analyze a financial dataset called budget_data.csv.The python script reads  the csv file and analyzes the records, calculates, and prints the values on the terminal and also exports a text file with the output with required formatting. 
 The values calculated are :
 The total number of months included in the dataset
 The net total amount of "Profit/Losses" over the entire period
@@ -8,7 +8,7 @@ The changes in "Profit/Losses" over the entire period, and then the average of t
 The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in profits (date and amount) over the entire period
 
-# PyPollPython script to analyze an election dataset called election_data.csv.The python script reads the csv file and analyzes the records, calculates, and prints the values on the terminal and also exports a text file with the output with required formatting. 
+# PyPoll Python script to analyze an election dataset called election_data.csv.The python script reads the csv file and analyzes the records, calculates, and prints the values on the terminal and also exports a text file with the output with required formatting. 
 The values calculated are :
 The total number of votes cast
 The percentage of votes each candidate won
